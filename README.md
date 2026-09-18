@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github-profile-3d-contrib.puzzle3d.workers.dev/user/Y-Khedr" alt="Y-Khedr 3D GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y-Khedr&theme=tokyo-night&area=true&hide_border=true" alt="Y-Khedr Activity Graph" />
 </p>
